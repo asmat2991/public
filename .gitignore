@@ -21,7 +21,7 @@
 /wp-*.php
 /xmlrpc.php
 
-# Configuration
+# Configuration.
 wp-config.php
 
 # Example themes
